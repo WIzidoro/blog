@@ -1,0 +1,17 @@
+---
+title: "Wellington Izidoro"
+image: eu_2.jpg
+about: 
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/wellingtonizidoro
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Olá! Pode me chamar de Izidoro!
+
+Sou graduado em economia pela Faculdade Esuda, com MBA em Finanças e Investiementos pela UFPE. Atualmente sou Analista de Dados Pleno na KPMG Brasil.
